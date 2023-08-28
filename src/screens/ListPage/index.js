@@ -181,8 +181,8 @@ const styles = StyleSheet.create({
     },
     list_container: {
         backgroundColor: 'white',
-        marginTop: 13,
-        marginHorizontal: 10
+        marginTop: 1,
+        marginHorizontal: 5
     },
     heading:{
         alignSelf:'center',
